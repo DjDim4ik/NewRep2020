@@ -1,1 +1,10 @@
 C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\.git\AlfoviteSorter\AlfoviteSorter\bin\Debug\AlfoviteSorter.exe.config
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\bin\Debug\AlfoviteSorter.exe.config
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\bin\Debug\AlfoviteSorter.exe
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\bin\Debug\AlfoviteSorter.pdb
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\obj\Debug\AlfoviteSorter.csprojResolveAssemblyReference.cache
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\obj\Debug\AlfoviteSorter.Form1.resources
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\obj\Debug\AlfoviteSorter.Properties.Resources.resources
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\obj\Debug\AlfoviteSorter.csproj.GenerateResource.Cache
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\obj\Debug\AlfoviteSorter.exe
+C:\Users\СекретныйАгент228\Desktop\11\NewDich\NewRep2020\AlfoviteSorter\AlfoviteSorter\obj\Debug\AlfoviteSorter.pdb

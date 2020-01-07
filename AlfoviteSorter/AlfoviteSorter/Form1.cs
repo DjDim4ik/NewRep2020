@@ -16,5 +16,12 @@ namespace AlfoviteSorter
         {
             InitializeComponent();
         }
+
+        private void butSort_Click(object sender, EventArgs e)
+        {
+            Front Front = new Front(TextIn.Text);
+            TextOut.Text = "";
+            TextOut.Text += Front.TextOut()+ Environment.NewLine;
+        }
     }
 }
